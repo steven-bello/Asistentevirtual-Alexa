@@ -6,6 +6,10 @@
 # pip install DateTime = instala la libreria que detalla la fecha y la hora de nuestra pc
 # pip install pyjokes = instala la dependencia de chistes
 
+# librerias que servirán para otros programas python
+# pip install Py-OS = instala una dependencia que ejecuta códigos en nuestra pc, para abrir programas etc.
+# pip install playsound = instala la libreria que reproduce audios en python
+
 from speech_recognition import Microphone, Recognizer, UnknownValueError
 import sys
 import time
