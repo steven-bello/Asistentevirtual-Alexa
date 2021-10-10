@@ -11,9 +11,13 @@ Te recomiendo tambien instalar pip para instalar paquetes python más facilmente
 
 pip
 
+os
+
 pyttsx3
 
 pywhatkit
+
+playsound
 
 webbrowser
 
@@ -24,6 +28,8 @@ pyjokes
 En tu IDE preferido compila el código de Alexa.py. Necesitarás un CMD para interactuar con el código de forma visual y auditiva.
 
 Las rutas de los archivos ejecutbales y archivos python deben de adaptarse a cada computadora para su correcto funcionamiento.
+
+La libreria os funciona con archivos tipo .exe y .lnk, ami me funcionó mejor usar los .lnk.
 
 Como la mayor parte de las librerias funcionan con internet, dependerá de tu red si funciona correctamente, aunque al inicio es posible que te de un error de internet lento al extraer datos, solo vuelve a compilar el codigo y funcionará.
 
